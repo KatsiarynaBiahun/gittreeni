@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 Tätä tekstiä
 f
+=======
+f
+Tätä tekstiä ei ole Githubissa
+>>>>>>> Stashed changes
